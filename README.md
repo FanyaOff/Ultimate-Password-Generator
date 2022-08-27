@@ -6,5 +6,6 @@
 
 * Default Password Generation
 * Random Email Generator
+* Generate multiple passwords & emails with export to a txt file
 
 If you have any ideas what I can add here, please, open the issue and write it there
