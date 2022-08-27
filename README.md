@@ -1,6 +1,7 @@
 # Ultimate Password Generator
 
-![123](https://user-images.githubusercontent.com/73064979/185788054-214356bf-c505-477f-a120-9f37df7fcec3.png)
+![image](https://user-images.githubusercontent.com/73064979/187023407-ba8eebcd-6ca7-42bb-94fe-b51f458b3248.png)
+
 
 **Functions:**
 
